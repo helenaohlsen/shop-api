@@ -2,5 +2,5 @@
 
 RESTful API prototype created using FastAPI, SQLAlchemy, Alembic, Pydantic.
 
-[WIP]
+[WIP - Not all path operations implemented yet]
 
